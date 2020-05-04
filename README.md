@@ -8,4 +8,4 @@ Dataset ***Transboundary shipments of notified waste by partner, hazardousness a
 
 **This notebook allows the visualization on a world map of transboundary shipments of notified waste, hazardousness and waste management operations for European countries.**
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarikeC/Waste-transboundary-shipments-Eurostat-information-/master?filepath=https%3A%2F%2Fgithub.com%2FMarikeC%2FWaste-transboundary-shipments-Eurostat-information-%2Fblob%2Fmaster%2FMC%2520Eurostat%2520Waste%2520Transboundary%2520Shipments.ipynb)
