@@ -1,9 +1,7 @@
+pandas
+pandas_datareader
 numpy==1.17.*
 matplotlib==3.1.*
 seaborn==0.9.0
 plotly==4.4.*
-pandas
-pandas_datareader
-plotly.graph_objects
-plotly.express
-world-bank-data
+world-bank-data==0.1.3
